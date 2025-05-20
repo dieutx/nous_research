@@ -20,4 +20,25 @@ An open-source, decentralized AI collective building the next generation of larg
 5. **Generate API Key:** Create an API key and start using it.
 ![image](https://github.com/user-attachments/assets/a9599ae2-592d-4667-8878-763719362659)
 
+## 💻 Installation & Setup
+
+```bash
+git clone https://github.com/dieutx/nous_research
+cd nous_research
+pip install python-telegram-bot --upgrade
+pip install requests
+```
+create a new tmux sesion:
+```bash
+tmux new -t nousresearch
+cd $HOME/nous_research
+python3 bot_telegram.py
+```
+![image](https://github.com/user-attachments/assets/7f8c13f9-ea73-4f2f-b3a3-c8bc0c5eb5c4)
+![image](https://github.com/user-attachments/assets/a36def26-9b6d-4714-9e5e-30d51bfc4b16)
+
+
+## and BOOM!
+![image](https://github.com/user-attachments/assets/318e312f-9a2b-4207-bff1-ea3c410d90cf)
+
 
